@@ -1,0 +1,12 @@
+Practical assignments using the follwing Machine Learning algorithms:
+- Linear Regression
+- Logistic Regression
+- Naive Bayes
+- SVM (Support Vector Machine)
+- Random Forest
+- Gradient Boosted Trees
+- K-Means Clustering
+- Hierarchical Clustering (Top-down and Bottom-up)
+- Density-Based Clustering
+- PCA (Principal Component Analysis)
+- Neural Networks
