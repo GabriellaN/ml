@@ -1,4 +1,4 @@
-Practical assignments using the follwing Machine Learning algorithms:
+Practical assignments using IBM Cloud and the follwing Machine Learning algorithms:
 - Linear Regression
 - Logistic Regression
 - Naive Bayes
